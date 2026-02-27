@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react'
 
-const CHARS = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ@#$%&*<>{}[]'
+const CHARS = '01'
 
 function MatrixRain() {
   const canvasRef = useRef(null)
