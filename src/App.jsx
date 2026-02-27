@@ -57,8 +57,8 @@ function App() {
             {/* Contact */}
             <div className="footer-col">
               <h4 className="footer-heading">Contact</h4>
-              <a href="mailto:inquery@kaylocode.com" className="footer-link">
-                inquery@kaylocode.com
+              <a href="mailto:inquery@kaylocode.io" className="footer-link">
+                inquery@kaylocode.io
               </a>
             </div>
 
